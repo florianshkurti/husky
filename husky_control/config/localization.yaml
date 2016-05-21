@@ -3,6 +3,8 @@ base_link_frame: base_link
 world_frame: odom
 
 two_d_mode: true
+#debug: true
+#debug_out_file: /home/florian/ekf_file.txt
 
 frequency: 50
 
